@@ -19,7 +19,7 @@ var a_to_ve="";var a_to_vf=new Array();var a_to_vg=0;a_to_ve=document.getElement
 j++;}
 if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
-var x=Math.floor((Math.random()*15)+ 1);
+var x=Math.floor((Math.random()*25)+ 1);
 var xxx=null;
 if(x=="1"){xxx="/2019/04/what-is-erp-system-software-in-business.html"}
 if(x=="2"){xxx="/2019/03/what-to-do-to-get-best-erp-system-for.html"}
@@ -35,7 +35,17 @@ if(x=="11"){xxx="/2019/02/the-benefits-of-erp-for-small-business.html"}
 if(x=="12"){xxx="/2019/01/the-top-3-erp-vendors.html"}
 if(x=="13"){xxx="/2019/01/the-choices-of-best-erp-system-for.html"}
 if(x=="14"){xxx="/2019/01/the-best-erp-system-software-free.html"}
-if(x=="15"){xxx="/2019/01/finding-best-erp-software-companies-in.html"}a_to_ve[i].href="https://www.erp-manufacturing.info"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="15"){xxx="/2019/01/the-top-list-of-erp-software-packages.html"}
+if(x=="16"){xxx="/2018/12/7-strategies-to-see-roi-from-your-erp.html"}
+if(x=="17"){xxx="/2018/12/the-top-technologies-boosting-sales-in.html"}
+if(x=="18"){xxx="/2018/12/10-erp-implementatition-issues-to-avoid.html"}
+if(x=="19"){xxx="/2018/12/sap-vs-oracle-6-erp-evaluation-criteria.html"}
+if(x=="20"){xxx="/2018/12/10-tips-for-finding-expert-witness-for.html"}
+if(x=="21"){xxx="/2018/12/6-benefits-of-cloud-erp.html"}
+if(x=="22"){xxx="/2018/11/how-to-use-change-management-to.html"}
+if(x=="23"){xxx="/2018/11/5-benefits-of-business-process.html"}
+if(x=="24"){xxx="/2018/10/4-data-security-tips-for-your-erp.html"}
+if(x=="25"){xxx="/2019/01/finding-best-erp-software-companies-in.html"}a_to_ve[i].href="https://www.erp-manufacturing.info"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
